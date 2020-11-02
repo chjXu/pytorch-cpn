@@ -1,3 +1,4 @@
+# add test_copy.py to test camera and images
 # PyTorch CPN(Cascaded Pyramid Network)
 
 This is a PyTorch re-implementation of CPN ([Cascaded Pyramid Network](https://arxiv.org/abs/1711.07319)), winner of MSCOCO keypoints2017 challenge. The TensorFlow version can be found [here](https://github.com/chenyilun95/tf-cpn), which is implemented by the paper author.
